@@ -1,0 +1,24 @@
+{
+  "name": "albx_37",
+  "version": "1.0.0",
+  "description": "认真写代码",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianfan520/-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianfan520/-/issues"
+  },
+  "homepage": "https://github.com/qianfan520/-#readme",
+  "dependencies": {
+    "ejs": "^2.7.4",
+    "express": "^4.17.1"
+  }
+}
